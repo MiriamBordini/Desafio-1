@@ -66,6 +66,8 @@
             document.getElementById('totalGastos').textContent = `$${totalGastos.toFixed(2)}`;
             document.getElementById('mediaGastos').textContent = `$${mediaGastos.toFixed(2)}`;
             document.getElementById('estimativaAnual').textContent = `$${estimativaAnual.toFixed(2)}`;
+
+Integrantes do grupo: Bia Vizeu, Heloísa, Duda Silva, Lucas Colombo, Míriam
         }
 
       
